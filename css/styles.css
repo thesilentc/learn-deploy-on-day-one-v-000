@@ -107,7 +107,7 @@ a:visited {
 
 .student-card {
   position: relative;
- background-image: url("https://learn-verified.s3.amazonaws.com/profile-photo-placeholder.png");
+ background-image: url("http://imgur.com/6kC3d9I");
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -197,7 +197,7 @@ a:visited {
 #tom-su-cover {
   background-image: url("http://datas.series-tv-shows.com/pic/tvdb/2448/fanart.jpg");
 }
- 
+
 #tom-su-card {
    background-image: url("http://imgur.com/ftlyRw2.png");
 }
@@ -4626,7 +4626,7 @@ a:visited {
 #rachel-lim-cover {
     background-image: url("http://i.imgur.com/yb6Dn4Y.jpg");
   }
- 
+
 #rachel-lim-card {
     background-image: url("http://i.imgur.com/lFqgSu2.jpg?1");
   }
@@ -4637,6 +4637,14 @@ a:visited {
 
 #j-ilustrisimo-card {
     background-image: url("http://imgur.com/KwWDJT0.jpg");
+}
+
+#james-borocz-cover {
+    background-image: url("http://i.imgur.com/6kC3d9I.jpg");
+}
+
+#james-borocz-card {
+    background-image: url("http://i.imgur.com/1OdMfkU.png");
 }
 
 .view-profile-div {
